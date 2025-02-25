@@ -6,7 +6,8 @@ const qaData = [
         "isLocked": true,
         "author": "차승연",
         "date": "2023-05-09",
-        "total": 0
+        "total": 0,
+        "admin_confirm": true
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@ const qaData = [
         "isLocked": true,
         "author": "이유림",
         "date": "2023-05-09",
-        "total": 0
+        "total": 0,
+        "admin_confirm": false
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@ const qaData = [
         "isLocked": false,
         "author": "김영애",
         "date": "2023-05-09",
-        "total": 0
+        "total": 0,
+        "admin_confirm": false
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@ const qaData = [
         "isLocked": true,
         "author": "차승연",
         "date": "2023-03-21",
-        "total": 238
+        "total": 238,
+        "admin_confirm": false
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@ const qaData = [
         "isLocked": true,
         "author": "박가연",
         "date": "2023-03-02",
-        "total": 0
+        "total": 0,
+        "admin_confirm": false
     },
 ]
 
